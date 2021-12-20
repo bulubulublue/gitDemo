@@ -1,5 +1,10 @@
 feature main
 1
 2
+<<<<<<< HEAD
 conflict1
 conflict2
+=======
+3
+4
+>>>>>>> 9e5ab99... edit main1
