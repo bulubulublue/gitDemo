@@ -2,3 +2,4 @@ feature main
 1
 2
 conflict1
+conflict2
