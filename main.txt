@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature main
 1
 2
 =======
 feature branch
 >>>>>>> b964df1... edit feature
+=======
+feature branch
+conflict1
+3
+>>>>>>> 7eeed2d... edit feature
