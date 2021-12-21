@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-feature main edited
-1 aaa
-2 bbb
-conflict1
-conflict2
-=======
 feature main
 conflict1
 conflict2
 conflict3
 conflict4
->>>>>>> 0f4dce0... feature2 commit2
